@@ -58,21 +58,7 @@ https://cheapsms.slockz.com/rest?act=sms&to=[PHONE-NUMBER]&msg=[MESSAGE]&token=[
 Then, the first device that sees the message send request, will take the task and send it.
 </p>
 <p><br></p>
-<p>
-        
-# EDIT
 
-In case that the https certificate fails or the sub-domain collapses, the following address is always going be available:
-        
-```
-
-http://slockz.com/lab/cheapsms/rest?...
-
-```
-
-</p>
-<p><br></p>
-<p>
         
 Best regards,
 
